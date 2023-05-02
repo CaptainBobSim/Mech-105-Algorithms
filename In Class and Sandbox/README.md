@@ -1,1 +1,1 @@
-This is purely a working folder with MECH 105 Examples
+This is catch all working folder with MECH 105 Examples
