@@ -1,18 +1,4 @@
 clear; clc;
-
-
-% This is some random crap I found online pay no attention.
-% function c = bisect(func,xl,xu,es,maxit)%f=@(x)x^2-3; a=1; b=2; (ensure change of sign between a and b) error=1e-4
-% c=(xl+xu)/2;
-% while abs(func(c))>es
-%     if func(c)<0&&func(xl)<0
-%         xl=c;
-%     else
-%         xu=c;
-%     end
-%     c=(xl+xu)/2;
-% end
-
 % Create a MATLAB script that solves for  in degrees when F = 150N. Your
 % script should create a plot of a function that is dependent on . Use the
 % bisect function in your script file. It is included in Matlab Grader and
